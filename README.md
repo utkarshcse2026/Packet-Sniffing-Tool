@@ -102,7 +102,7 @@ Create a script to capture HTTP requests from the specified website without perm
   
 ## 🌐 Explore More
 
-Check out the [project on GitHub](https://github.com/Devredhat/CodeAlpha_Project_Network_Sniffing) for detailed documentation, issues, and contributions.
+Check out the [GitHub](https://github.com/utkarshcse2026/Packet-Sniffing-Tool) for detailed documentation, issues, and contributions.
 
 ---
 
