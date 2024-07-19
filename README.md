@@ -1,12 +1,10 @@
-# 🌟 CodeAlpha Project : Network Sniffing Tool🔍
+# 🌟Project : Network Sniffing Tool🔍
 [![CodeAlpha Project: Network Sniffing](https://r4.wallpaperflare.com/wallpaper/168/815/785/computer-the-room-hacker-the-world-at-night-wallpaper-3d3cd7535fdab5d1ca88d75fef1ecb67.jpg)](https://github.com/Devredhat/CodeAlpha_Project_Network_Sniffing)
 
 
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Devredhat/CodeAlpha_Project_Network_Sniffing?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/Devredhat/CodeAlpha_Project_Network_Sniffing?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Devredhat/CodeAlpha_Project_Network_Sniffing?style=social)
 [![CodeAlpha Project: Network Sniffing](https://img.shields.io/badge/CodeAlpha_Project-Network_Sniffing-blue?style=flat-square)](https://github.com/Devredhat/CodeAlpha_Project_Network_Sniffing)
 
 ## This is a Description of my Project Where I Developed Two projects under the One Domain of Network Sniffing:
