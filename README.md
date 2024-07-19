@@ -96,9 +96,8 @@ Create a script to capture HTTP requests from the specified website without perm
 1) Python Based Network Sniffer Tool : `networksniff.py`
 
 2) Web Based Network Sniffer Tool : `Web_based_Sniffer_Tool.php`
-- ![image](https://github.com/user-attachments/assets/37cb8da5-c1be-44ff-8d0f-9b96624bc405)
 
-  
+3)   
 ## 🌐 Explore More
 
 Check out the [GitHub](https://github.com/utkarshcse2026/Packet-Sniffing-Tool) for detailed documentation, issues, and contributions.
