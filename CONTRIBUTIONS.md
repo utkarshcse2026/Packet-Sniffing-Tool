@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2025-11-08` — Enhanced error messaging
 - `2025-10-29` — Minor performance improvements
 - `2025-10-24` — Optimised repeated code patterns
 - `2025-10-23` — Code style improvements
