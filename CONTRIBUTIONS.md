@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2025-12-31` — Updated helper utilities
 - `2025-11-27` — Cleaned up unused imports
 - `2025-11-26` — Minor performance improvements
 - `2025-11-12` — Added defensive checks
