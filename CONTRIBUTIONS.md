@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2025-12-12` — Added defensive checks
 - `2025-11-24` — Fixed minor inconsistency in logic
 - `2025-11-23` — Refactored repeated logic into helpers
 - `2025-11-19` — Stabilised core logic
