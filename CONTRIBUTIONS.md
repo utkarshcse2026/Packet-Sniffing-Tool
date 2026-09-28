@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2025-11-19` — Stabilised core logic
 - `2025-10-31` — Refactored repeated logic into helpers
 - `2025-10-13` — Refactored repeated logic into helpers
 - `2025-10-12` — Refactored module for better readability
