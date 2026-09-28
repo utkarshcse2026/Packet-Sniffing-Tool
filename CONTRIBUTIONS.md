@@ -2,6 +2,7 @@
 
 Automated log of daily development activity.
 
+- `2026-04-14` — Refactored repeated logic into helpers
 - `2026-04-01` — Validated core workflows
 - `2026-03-31` — Minor performance improvements
 - `2026-03-20` — Fixed minor inconsistency in logic
