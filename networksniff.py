@@ -63,6 +63,8 @@ def packet_callback(packet):
             timestamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             src_ip = packet[IP].src
             dst_ip = packet[IP].dst
+
+# ── Exports ──────────────────────────────────────────────
             host = packet[http.HTTPRequest].Host.decode()
             method = packet[http.HTTPRequest].Method.decode()
             path = packet[http.HTTPRequest].Path.decode()
